@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoldierofRome
 - 👀 I’m interested in Technology, History (guess which period) and games of course!
-- 🌱 I’m currently learning dabbling in GitHub and coding.  
+- 🌱 I’m currently dabbling in GitHub and coding.  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me legionary70@gmail.com
 
